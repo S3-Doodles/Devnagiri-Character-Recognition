@@ -33,3 +33,15 @@ K-Nearest Neighbor Classifier:
 ● KNN had an accuracy ranging between 88% to 92% for model trained and validated on small number of target classes.
 
 CONCLUSION: Handwritten character recognition is still a research area of burning pattern recognition. Character recognition of handwritten Devanagari script is a difficult task considering the similarities between its characters. With the use of Neural Networks for extracting the important features of the character in the images has been very useful in mining the characteristics of the image and hence making classification of the characters simple using various multiclass classifiers. Moreover, experimenting with full and partial images of the characters using different neural network architecture has helped understand how the quality of the extracted features change, thus affecting the classification models and its accuracy. To conclude, Handwritten character recognition, Image processing, Feature extraction, neural networks are the various popular fields of research and the insights of these topics can be obtained from the report.
+
+
+<b> contributors </b>
+
+<b> 111903040 : KETAKI JADHAV
+
+111903042 : KRUTI WALKO
+
+111903045 : LAWANYA CHAUDHARI
+
+111903049 : NEHA TORKAD </b>
+  
