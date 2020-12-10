@@ -1,0 +1,2 @@
+# Devnagiri-Character-Recognition
+Handwritten devanagari character (UCI Dataset) recognition has been performed using Neural Networks. Features of the characters are extracted using Convlution Neural Network and Deep Neural Networks. The extracted features are then used to predict the characters using Classifiers: Random Forest, KNN and Multi-layer perceptron. Efficiencies of each are studied under different scenarios.
